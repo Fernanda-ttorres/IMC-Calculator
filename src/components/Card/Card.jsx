@@ -1,10 +1,12 @@
-import React from 'react';
 import { CardStyled } from './Card.styled';
+import { Title } from '../Title/Title';
 
-const Card = ({content}) => {
+const Card = () => {
   return (
     <>
-    <CardStyled>{content}</CardStyled>
+    <CardStyled>
+      <Title title="Calcule seu IMC"/>
+    </CardStyled>
     </>
   )
 };
