@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Slider = styled.div`
-    width: 18rem;
+    width: 19rem;
     height: 5.5rem;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,7 @@ export const Slider = styled.div`
         font-family: 'Poppins', sans-serif;
         font-style: normal;
         font-weight: 250;
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         color: #000000;
     }
 
@@ -21,7 +21,7 @@ export const Slider = styled.div`
         font-family: 'Poppins', sans-serif;
         font-style: normal;
         font-weight: 250;
-        font-size: 2rem;
+        font-size: 2.2rem;
         color: #f7b718;
     }
 `;

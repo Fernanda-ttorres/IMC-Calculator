@@ -4,7 +4,7 @@ export const PStyled = styled.p`
      font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 1.5rem;
-    line-height: 3rem;
+    font-size: 1.6rem;
+    line-height: 2.7rem;
     color: #000000;
 `;
